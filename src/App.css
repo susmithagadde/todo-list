@@ -1,3 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./Images/news.jpg") center center/cover no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 10%;
+}
 .App {
   text-align: center;
 }

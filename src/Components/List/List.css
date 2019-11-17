@@ -1,0 +1,24 @@
+.todo-container {
+  margin: auto;
+
+  border-bottom-right-radius: 11px !important;
+  min-height: 500px;
+}
+.todo-container .header {
+  background-color: black;
+  color: white;
+  padding: 1%;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px !important;
+}
+.add-container {
+  background-color: #d37b79;
+  border-bottom-left-radius: 11px !important;
+}
+.main {
+  min-height: 500px;
+}
+.list-container {
+  background: #4d244e;
+  color: white;
+}
